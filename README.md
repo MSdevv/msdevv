@@ -1,1 +1,1 @@
-Computer engineer - Flutter mobile developer (Android & iOS)
+Software Engineer - Flutter mobile developer (Android & iOS)
